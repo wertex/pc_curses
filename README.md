@@ -1,12 +1,10 @@
 ## Список тем
 
-- [Знакомство с персональным компьютером и операционной системой Microsoft Windows](#recommended-minimum)
+- [Знакомство с персональным компьютером и операционной системой Microsoft Windows](#Знакомство-с-персональным-компьютером-и-операционной -системой-Microsoft-Windows)
 - [Elements](#elements)
 - [Meta](#meta)
 - [Link](#link)
 - [Icons](#icons)
 - [Social](#social)
 
-## Recommended Minimum
-
-Below are the essential elements for any web document (websites/apps):
+## Знакомство с персональным компьютером и операционной системой Microsoft Windows
